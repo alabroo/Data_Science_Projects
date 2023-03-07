@@ -1,4 +1,4 @@
-# data_analysis_project
+# Data Science Projects
 
 Projects uploaded:
 1) Linear Regression performed on sample dataset
